@@ -1,0 +1,15 @@
+header{
+    text-align: center;
+    color: green;
+    text-shadow: greenyellow 2px 2px 5px;
+    margin: auto;
+    padding: 5px;
+    border: 2px solid brown;
+}
+h2{
+    font-weight: bolder;
+}
+th {
+    background-color: peru;
+    color: green;
+}
