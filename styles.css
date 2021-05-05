@@ -5,6 +5,7 @@ header{
     margin: auto;
     padding: 5px;
     border: 2px solid brown;
+    background-color: burlywood;
 }
 h2{
     font-weight: bolder;
@@ -12,4 +13,7 @@ h2{
 th {
     background-color: peru;
     color: green;
+}
+body{
+    background-image: url(./image/395191_306740626040464_1744794415_n.jpg);
 }
