@@ -9,6 +9,7 @@ header{
 }
 h2{
     font-weight: bolder;
+    /* background-color: burlywood; */
 }
 th {
     background-color: peru;
@@ -16,4 +17,10 @@ th {
 }
 body{
     background-image: url(./image/395191_306740626040464_1744794415_n.jpg);
+}
+.intro {
+    background-color: burlywood;
+}
+.data {
+    background-color: burlywood;
 }
